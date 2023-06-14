@@ -15,6 +15,13 @@ A button labeled "Vehicle Preview" is present, allowing users to preview the veh
 The settings section presents different cards with icons, text, and an arrow icon for navigation. These cards represent different settings that can be accessed, such as pricing, pickup location, vehicle photos, vehicle description, availability, and notes for pickup.
 
 This Flutter code provides a basic structure for a product description page and can be customized and enhanced according to your specific requirements.
+![IMG-20230614-WA0004](https://github.com/PriyanGoel/Prod_des/assets/77436378/0b6c8bd2-a759-41f6-b750-0a6eef4e0933)
+
+![IMG-20230614-WA0005](https://github.com/PriyanGoel/Prod_des/assets/77436378/596a5ca1-9a46-4af7-b9bb-bb5cbe68d58b)
+![IMG-20230614-WA0001](https://github.com/PriyanGoel/Prod_des/assets/77436378/e57976ea-9b52-4dc7-bba2-2f84870a9e4b)
+
+![IMG-20230614-WA0002](https://github.com/PriyanGoel/Prod_des/assets/77436378/662d49e0-bf3c-4835-8f41-ce2a7f7bc481)
+
 
 A few resources to get you started if this is your first Flutter project:
 
