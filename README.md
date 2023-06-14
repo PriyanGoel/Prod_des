@@ -21,6 +21,7 @@ This Flutter code provides a basic structure for a product description page and 
 ![IMG-20230614-WA0001](https://github.com/PriyanGoel/Prod_des/assets/77436378/e57976ea-9b52-4dc7-bba2-2f84870a9e4b)
 
 ![IMG-20230614-WA0002](https://github.com/PriyanGoel/Prod_des/assets/77436378/662d49e0-bf3c-4835-8f41-ce2a7f7bc481)
+![Untitled video - Made with Clipchamp](https://github.com/PriyanGoel/Prod_des/assets/77436378/15457909-bcea-45fd-bbca-3d1074902631)
 
 
 A few resources to get you started if this is your first Flutter project:
